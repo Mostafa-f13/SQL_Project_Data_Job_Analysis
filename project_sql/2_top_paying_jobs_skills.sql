@@ -1,10 +1,10 @@
 /*
-Qeustion: What skills are required for the top-paying Data Analysis jobs?
--Use the top 10 hieghest-paying Data Analyst roles from the previous query.
--Add the specific skills required for these roles.
--Why? It provides a detailed look at which hiegh-paying jobs demand certain skills, 
-helping job seekers align their qualifications with market demands.
-*/
+  Qeustion: What skills are required for the top-paying Data Analysis jobs?
+  -Use the top 10 hieghest-paying Data Analyst roles from the previous query.
+  -Add the specific skills required for these roles.
+  -Why? It provides a detailed look at which hiegh-paying jobs demand certain skills, 
+  helping job seekers align their qualifications with market demands.
+  */
 WITH top_paying_jobs As (
 SELECT
     job_id,
